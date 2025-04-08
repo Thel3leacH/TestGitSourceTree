@@ -3,5 +3,9 @@ body {
 }
 
 a {
+<<<<<<< HEAD
     text-align: right;
+=======
+    text-align: center;
+>>>>>>> feature/new-page
 }
